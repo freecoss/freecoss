@@ -1,15 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Farahi Abderahim
+# 👋 Hi, I'm Abderahim Farahi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Laravel+%7C+Node.js;Building+Innovative+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Laravel+%7C+MERN+Stack;Building+Innovative+Solutions" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abFr7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://farahi-orpin.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farahiabderahim03@gmail.com)
 
 </div>
 
@@ -18,18 +17,19 @@
 ## 🚀 About Me
 
 ```javascript
-const developer = {
-    location: "Your City, Country 🌍",
+const abderahim = {
+    location: "Mohammedia, Morocco 🇲🇦",
     currentRole: "Full-Stack Developer",
-    currentProject: "Your Current Project",
-    achievements: [
-        "🏆 Your Achievement 1",
-        "🎓 Your Achievement 2",
-        "💼 Your Achievement 3"
+    currentProject: "Stagify - University Internship Management",
+    education: [
+        "🎓 Licence Professionnelle IMA - FP Sidi Bennour",
+        "💻 DTS Développement Digital - ISTA Mohammedia",
+        "📚 Baccalauréat - Lycée Abdelkrim El Khatabi"
     ],
-    learning: ["Technology 1", "Technology 2", "Technology 3"],
-    expertise: ["React.js", "Laravel", "Node.js", "TypeScript"],
-    askMeAbout: ["Web Development", "Mobile Apps", "System Architecture"]
+    expertise: ["React.js", "Laravel", "Node.js", "Express.js", "MongoDB"],
+    methodologies: ["Scrum", "UML", "Merise"],
+    interests: ["⚽ Football", "🎮 Video Games"],
+    askMeAbout: ["Web Development", "MERN Stack", "Full-Stack Architecture"]
 };
 ```
 
@@ -37,20 +37,20 @@ const developer = {
 
 ## 💼 Professional Experience
 
-### 🏢 Job Title @ Company Name | *Month Year - Month Year*
-- 🔧 Key responsibility or achievement
-- 📊 Key responsibility or achievement
-- ✨ Key responsibility or achievement
+### 💻 Développeur Web @ Perfect Shore | *Avril 2025 - Mai 2025*
+- 🎓 Développement d'une application web de gestion des stages universitaires (Stagify)
+- 🔧 Utilisation de la stack MERN (MongoDB, Express.js, React, Node.js)
+- 📊 Gestion complète du cycle de vie des stages universitaires
 
-### 🏢 Job Title @ Company Name | *Month Year - Month Year*
-- 🔧 Key responsibility or achievement
-- 📊 Key responsibility or achievement
-- ✨ Key responsibility or achievement
+### 🏥 Développeur Web @ Managem Twin Center | *Avril 2024 - Mai 2024*
+- 🏥 Développement d'un système de gestion des rendez-vous hospitaliers
+- ⚡️ Stack MERN : React, Node.js, Express.js, MongoDB
+- 🎯 Optimisation de la prise de rendez-vous médicaux
 
-### 🏢 Job Title @ Company Name | *Month Year - Month Year*
-- 🔧 Key responsibility or achievement
-- 📊 Key responsibility or achievement
-- ✨ Key responsibility or achievement
+### 🏆 Développeur Full Stack @ Hackathon Geeks Institute | *Mars 2025*
+- 🚀 Développement d'une application de blog (CareCompass)
+- ⏱️ Défi de 48 heures continues au Technopark Casablanca
+- 💪 Utilisation de la stack MERN sous contrainte de temps
 
 ---
 
@@ -60,32 +60,38 @@ const developer = {
 <tr>
 <td width="50%">
 
-### Degree Name
-**Institution Name**  
-📍 City, Country  
-📅 Month Year - Month Year  
-⭐️ Grade: X.XX/XX
+### Licence Professionnelle IMA
+**Faculté Polydisciplinaire Sidi Bennour**  
+📍 El Jadida, Morocco  
+📅 Septembre 2024 - Juin 2025
 
-**Key Courses:**
-- Course 1
-- Course 2
-- Course 3
-- Course 4
+**Domaine:**
+- Informatique et Mathématiques Appliquées
+- Développement Web
+- Technologies Full-Stack
 
 </td>
 <td width="50%">
 
-### Degree Name
-**Institution Name**  
-📍 City, Country  
-📅 Month Year - Month Year  
-⭐️ Grade: X.XX/XX
+### Diplôme Technicien Spécialisé
+**ISTA Mohammedia**  
+📍 Mohammedia, Morocco  
+📅 Septembre 2022 - Juin 2024
 
-**Key Courses:**
-- Course 1
-- Course 2
-- Course 3
-- Course 4
+**Spécialité:**
+- Développement Digital
+- Full-Stack Development
+- MERN Stack
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### Baccalauréat
+**Lycée Abdelkrim El Khatabi**  
+📍 Mohammedia, Morocco  
+📅 Septembre 2020 - Juin 2021
 
 </td>
 </tr>
@@ -106,14 +112,14 @@ const developer = {
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -123,7 +129,8 @@ const developer = {
 
 ### 📋 Methodologies
 ![Scrum](https://img.shields.io/badge/Scrum-%23009688.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%23239120.svg?style=for-the-badge&logo=agile&logoColor=white)
+![UML](https://img.shields.io/badge/UML-%23FABD14.svg?style=for-the-badge&logo=uml&logoColor=white)
+![Merise](https://img.shields.io/badge/Merise-%234285F4.svg?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -137,56 +144,60 @@ const developer = {
 <tr>
 <td width="50%">
 
-### 🎯 [Project Name](https://github.com/your-username/project)
-Brief description of what the project does
+### 🎓 [Stagify](https://github.com/abFr7/stagify)
+Application de gestion des stages universitaires
 
-**Features:**
-- ✨ Feature 1
-- 🔍 Feature 2
-- ✅ Feature 3
+**Fonctionnalités:**
+- ✨ Gestion complète des stages
+- 🔍 Recherche et filtrage avancés
+- ✅ Suivi des candidatures
+- 📊 Tableau de bord administratif
 
-**Tech:** React, Node.js, MongoDB
+**Tech:** React, Node.js, Express.js, MongoDB
 
 </td>
 <td width="50%">
 
-### 🎯 [Project Name](https://github.com/your-username/project)
-Brief description of what the project does
+### 📝 [CareCompass](https://github.com/abFr7/carecompass)
+Application de blog développée lors d'un hackathon
 
-**Features:**
-- ✨ Feature 1
-- 🔍 Feature 2
-- ✅ Feature 3
+**Fonctionnalités:**
+- ✨ Création et publication d'articles
+- 🔍 Système de recherche
+- ✅ Authentification utilisateurs
+- 🎨 Interface moderne et responsive
 
-**Tech:** Laravel, Vue.js, MySQL
+**Tech:** MERN Stack (MongoDB, Express, React, Node.js)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎯 [Project Name](https://github.com/your-username/project)
-Brief description of what the project does
+### 🏥 [Hospital Appointment System](https://github.com/abFr7)
+Système de gestion des rendez-vous hospitaliers
 
-**Features:**
-- ✨ Feature 1
-- 🔍 Feature 2
-- ✅ Feature 3
+**Fonctionnalités:**
+- ✨ Prise de rendez-vous en ligne
+- 🔍 Gestion des disponibilités
+- ✅ Notifications automatiques
+- 📱 Interface utilisateur intuitive
 
-**Tech:** React Native, Express.js, PostgreSQL
+**Tech:** React, Node.js, Express.js, MongoDB
 
 </td>
 <td width="50%">
 
-### 🎯 [Project Name](https://github.com/your-username/project)
-Brief description of what the project does
+### 🌐 [Portfolio Personnel](https://farahi-orpin.vercel.app/)
+Site portfolio professionnel
 
-**Features:**
-- ✨ Feature 1
-- 🔍 Feature 2
-- ✅ Feature 3
+**Fonctionnalités:**
+- ✨ Présentation des projets
+- 🔍 CV interactif
+- ✅ Formulaire de contact
+- 🎨 Design moderne et animé
 
-**Tech:** TypeScript, Laravel, Redux
+**Tech:** React, TypeScript, Vercel
 
 </td>
 </tr>
@@ -214,10 +225,10 @@ Brief description of what the project does
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abFr7&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abFr7&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abFr7&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -227,7 +238,7 @@ Brief description of what the project does
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abFr7&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -239,9 +250,9 @@ Brief description of what the project does
 
 | Language | Proficiency |
 |----------|-------------|
-| English 🇬🇧 | Native/Fluent |
-| Language 2 | Proficient |
-| Language 3 | Conversational |
+| Arabic 🇲🇦 | Native |
+| French 🇫🇷 | Intermediate |
+| English 🇬🇧 | Intermediate |
 
 </div>
 
@@ -261,25 +272,25 @@ Brief description of what the project does
 
 <div align="center">
 
-💼 Open to exciting opportunities in Full-Stack Development and innovative projects
+💼 Open to exciting opportunities in Full-Stack Development, MERN Stack projects, and innovative web applications
 
-📧 Email: your.email@example.com  
-📱 Phone: +XXX XXX XXX XXX  
-🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-username)
+📧 Email: farahiabderahim03@gmail.com  
+📱 Phone: +212 600-492859  
+🌐 Portfolio: [farahi-orpin.vercel.app](https://farahi-orpin.vercel.app/)  
+📍 Location: Mohammedia 28820, Morocco
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge&label=Profile+Views)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/abFr7)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abFr7&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 ---
 
 ### ⚡️ *"First solve the problem. Then, write the code."* - John Johnson
 
-⭐️ From [Your-Username](https://github.com/your-username) | Built with ❤️
+⭐️ From [Abderahim Farahi](https://github.com/abFr7) | Built with ❤️ in Morocco 🇲🇦
 
 </div>
