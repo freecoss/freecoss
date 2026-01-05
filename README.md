@@ -22,6 +22,7 @@ const abderahim = {
     currentRole: "Full-Stack Developer",
     currentProject: "Stagify - University Internship Management",
     education: [
+        "🎓 Master Systèmes Distribués et Intelligence Artificielle - ENSET MOHAMMEDIA",
         "🎓 Licence Professionnelle IMA - FP Sidi Bennour",
         "💻 DTS Développement Digital - ISTA Mohammedia",
         "📚 Baccalauréat - Lycée Abdelkrim El Khatabi"
@@ -29,7 +30,7 @@ const abderahim = {
     expertise: ["React.js", "Laravel", "Node.js", "Express.js", "MongoDB"],
     methodologies: ["Scrum", "UML", "Merise"],
     interests: ["⚽ Football", "🎮 Video Games"],
-    askMeAbout: ["Web Development", "MERN Stack", "Full-Stack Architecture"]
+    askMeAbout: ["Web Development", "MERN Stack", "Full-Stack"]
 };
 ```
 
@@ -48,7 +49,7 @@ const abderahim = {
 - 🎯 Optimisation de la prise de rendez-vous médicaux
 
 ### 🏆 Développeur Full Stack @ Hackathon Geeks Institute | *Mars 2025*
-- 🚀 Développement d'une application de blog (CareCompass)
+- 🚀 Développement d'une application de blog
 - ⏱️ Défi de 48 heures continues au Technopark Casablanca
 - 💪 Utilisation de la stack MERN sous contrainte de temps
 
@@ -57,6 +58,18 @@ const abderahim = {
 ## 🎓 Education
 
 <table>
+<tr>
+<td width="100%">
+### Master Systèmes Distribués et Intelligence Artificielle
+**ENSET MOHAMMEDIA**  
+📍 Mohammedia, Morocco  
+📅 Septembre 2025 - Juin 2027
+
+**Domaine:**
+- software engineering
+- intelligence artificielle
+</td>
+</tr>
 <tr>
 <td width="50%">
 
